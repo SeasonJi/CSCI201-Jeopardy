@@ -1,0 +1,7 @@
+Baseball::Basketball::Football::Tennis::Volleyball
+200::400::600::800::1000
+::Baseball::200::The record for most World Series titles belongs to the Big Apple. With so much prestige, you would think Jimmy Fallon would have the decency not to use this team's branded toilet paper.::New York Yankees
+::Baseball::400::If someone hits a single, a double, a triple, and a home run all in one game, he has hit for this.::Cycle
+::Football::400::The gold rush was a time of great opportunity and excitement. This NFL team was named after the year it started.::San Francisco 49ers
+::Football::200::If the offense gets tackled in its own endzone, it is called this.::Safety
+::FJ::USC Trojan Swimmer Katinka Hosszu brought home three gold medals and one silver from the 2016 Summer Olympics for this country.::Hungary
